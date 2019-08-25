@@ -13,7 +13,7 @@
       </i-layout>
 
       <i-layout-footer>
-        Just for fun!
+        <Footer/>
       </i-layout-footer>
     </i-layout>
   </div>
@@ -28,13 +28,15 @@
 
     import Header from "./components/Header";
     import NavBar from "./components/NavBar";
+    import Footer from "./components/Footer";
 
 
     export default {
         name: 'app',
         components: {
             NavBar,
-            Header
+            Header,
+            Footer
 
         }
     }
