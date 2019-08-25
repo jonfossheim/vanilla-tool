@@ -13,7 +13,7 @@
       </i-layout>
 
       <i-layout-footer>
-        Just for fun
+        Just for fun!
       </i-layout-footer>
     </i-layout>
   </div>
